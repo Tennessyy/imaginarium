@@ -1,0 +1,10 @@
+.npz
+.zip
+.npy
+.qz
+.tar
+*.tar
+*.qz
+*.npy
+*.zip
+*.npz
